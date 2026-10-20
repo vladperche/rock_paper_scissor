@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RockPaperScissor.API/RockPaperScissor.API.csproj" />
+  <Project Path="RockPaperScissor.CrossCutting/RockPaperScissor.CrossCutting.csproj" />
+  <Project Path="RockPaperScissor.Entities/RockPaperScissor.Entities.csproj" />
+</Solution>

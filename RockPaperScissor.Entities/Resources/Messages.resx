@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<accessability>public</accessability>
+	<data id="67042879-42e2-4d13-9ae1-e58f182ac01e" name="MOVE_NOT_DEFINED" xml:space="preserve">
+		<value>Move not defined: {0}</value>
+		<comment></comment>
+	</data>
+	<data id="66d4bac0-7c29-4a6e-a97e-3ea437b3d8c1" name="MOVE_PATH_NOT_FOUND" xml:space="preserve">
+		<value>Move path not found: {0} x {1}</value>
+		<comment></comment>
+	</data>
+</root>
